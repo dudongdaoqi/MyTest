@@ -22,6 +22,7 @@
     LCVersionCompare *v = [LCVersionCompare new];
     [v versionDataParse:nil];
     
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
